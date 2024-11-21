@@ -11,6 +11,9 @@ website:
       - about.qmd
       - href: Resume.qmd
         text: Resume
+      - href: My blog.qmd
+        text: Blog
+        
 
 format:
   html:
