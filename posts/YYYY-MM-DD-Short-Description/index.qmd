@@ -1,0 +1,8 @@
+---
+title: "First Blog Post"
+description: "Blog post for ECON 2204" 
+citation: true
+draft: false
+---
+
+# My first blog post

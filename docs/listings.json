@@ -1,6 +1,8 @@
 [
   {
     "listing": "/My blog.html",
-    "items": []
+    "items": [
+      "/posts/YYYY-MM-DD-Short-Description/index.html"
+    ]
   }
 ]

@@ -12,5 +12,12 @@
     "title": "GitHub Website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/YYYY-MM-DD-Short-Description/index.html",
+    "href": "posts/YYYY-MM-DD-Short-Description/index.html",
+    "title": "First Blog Post",
+    "section": "",
+    "text": "My first blog post\n\n\n\n\nCitationBibTeX citation:@online{untitled,\n  author = {},\n  title = {First {Blog} {Post}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“First Blog Post.” n.d."
   }
 ]
