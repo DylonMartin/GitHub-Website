@@ -11,3 +11,5 @@ Freelance Writer and Economics Major
 # About Me 
 
 I'm currently a University of Winnipeg student and freelance writer, contributing columns to teh Free Press Community Review East. I have a passion for public policy, particularly housing, zoning, local issues, and social welfare and economic development. 
+
+This website was created as part of a University of Winnipeg course.
