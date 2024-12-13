@@ -7,7 +7,7 @@ author:
 categories: [Quarto, R, Data Analysis]
 citation: 
   url: https://dylonmartin.github.io/GitHub-Website/posts/YYYY-MM-DD-Short-Description/
-image: lightbulb.jpg
+image: 'C:/Users/dylon/Documents/ECON 2201 Projects/GitHub Website/posts/lightbulb.jpg'
 draft: false
 ---
 
