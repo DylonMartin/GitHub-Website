@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This site was created as part of a University of Winnipeg course, ECON-2204 Introduction to Data Analysis for Economics and Finance. 
