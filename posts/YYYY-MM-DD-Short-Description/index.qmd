@@ -1,8 +1,16 @@
 ---
 title: "First Blog Post"
 description: "Blog post for ECON 2204" 
-citation: true
+author: 
+ - name: Dylon Martin
+ - affiliation: University of Winnipeg student 
+categories: [Quarto, R, Data Analysis]
+citation: 
+  url: https://dylonmartin.github.io/GitHub-Website/posts/YYYY-MM-DD-Short-Description/
+image: lightbulb.jpg
 draft: false
 ---
 
 # My first blog post
+
+Sample blog post
