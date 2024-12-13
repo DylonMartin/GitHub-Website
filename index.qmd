@@ -2,10 +2,8 @@
 title: "GitHub Website"
 ---
 
-This is a Quarto website.
+Dylon Reed Martin 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Freelance Writer and Economics Major 
 
-```{r}
-1 + 1
-```
+![](Dylon Martin Photo.jpg){width=300}
