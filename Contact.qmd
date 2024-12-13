@@ -1,0 +1,7 @@
+---
+title: "Contact"
+format: html
+editor: visual
+---
+
+I can be contacted at [aprairieoutpost\@gmail.com](mailto:aprairieoutpost@gmail.com).
