@@ -13,6 +13,8 @@ website:
         text: Resume
       - href: My blog.qmd
         text: Blog
+      - href: Contact.qmd
+        text: Contact
         
 
 format:
